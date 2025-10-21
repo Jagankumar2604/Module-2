@@ -20,7 +20,8 @@ print("Modulo :",result(c,d))
 ```
 
 ## Output
-<img width="815" height="273" alt="image" src="https://github.com/user-attachments/assets/4fbfdd13-9504-4fb0-acf4-3909827ad947" />
+<img width="567" height="317" alt="502985079-979d4cb8-6f67-4523-9087-986cdf47322f" src="https://github.com/user-attachments/assets/a570dbe1-34c9-4f83-a918-db6861a2f254" />
+
 
 
 ## Result
